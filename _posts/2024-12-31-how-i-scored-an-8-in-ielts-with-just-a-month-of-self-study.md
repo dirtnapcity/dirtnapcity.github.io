@@ -9,7 +9,7 @@ tags:
   - IELTS
 ---
 
-Như mọi người đã biết (hoặc chưa biết), vừa rồi mình có đạt được 8.0 IELTS ở lần thi đầu tiên trong khoảng 1 tháng tự học. Mình sẽ đi thẳng vào mình đã làm những gì nhé.
+Như mọi người đã biết (hoặc chưa biết), vừa rồi mình có đạt được 8.0 IELTS ở lần thi đầu tiên trong khoảng 1 tháng tự học. Mình sẽ đi thẳng vào những gì mình đã làm được nhé.
 
 Trước khi tập trung học IELTS thì mình nghĩ là khả năng của mình như sau:
 - R: 8.0 - 8.5
