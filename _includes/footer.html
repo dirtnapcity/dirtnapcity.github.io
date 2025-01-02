@@ -253,18 +253,18 @@
     function _render() {
         var lang = getLang()
         // Fallback to English if `lang` is empty
-        if (lang == "vi") {
+        if (lang == "en") {
             $select.selectedIndex = 1;
-            $vi.style.display = "block";
-            $vi.classList.add("active");
-            $en.style.display = "none";
-            $en.classList.remove("active");
-        } else {
-            $select.selectedIndex = 0;
             $en.style.display = "block";
             $en.classList.add("active");
             $vi.style.display = "none";
             $vi.classList.remove("active");
+        } else {
+            $select.selectedIndex = 0;
+            $vi.style.display = "block";
+            $vi.classList.add("active");
+            $en.style.display = "none";
+            $en.classList.remove("active");
         }
         // interop with catalog 
         generateCatalog(".catalog-body");
@@ -272,7 +272,7 @@
 
     // handle select change
     function onLanChange(index) {
-        if (index == 1) {
+        if (index == 0) {
             lang = "vi"
         } else {
             lang = "en"
