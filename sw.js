@@ -20,6 +20,8 @@ const PRECACHE_LIST = [
   "./js/hux-blog.min.js",
   "./js/snackbar.js",
   "./img/home-bg.jpg",
+  "./img/dark-magical-forest.jpg",
+  "./img/wallpaper-sea.png",
   "./img/post-bg-about.png",
   "./img/post-bg-archive.png",
   "./img/404-bg.jpg",
