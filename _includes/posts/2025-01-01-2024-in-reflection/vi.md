@@ -1,3 +1,4 @@
+[](/img/dark-magical-forest.jpg)
 Mình xin được tiếp tục series mỗi năm hồi sinh blog 1 lần ạ 🥲. 
 ## Những điều hay trong năm 2024
 ### NixOS
