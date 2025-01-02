@@ -65,7 +65,7 @@ Kết quả mình đạt được 😁:
         - Nghe tới đoạn nào không hiểu thì tua lại + bật sub để xem cho tới khi nào nghe hiểu được.
 - **Cách luyện đề**:
     - Mình luyện CAM ở trên [https://study4.com/](https://study4.com/).
-    - Làm đề (mình chỉ luyện x1.0 như thường)
+    - Làm đề (mình chỉ luyện với tốc độ x1.0 như thường)
     - Review lại những câu sai và phân tích tại sao mình lại sai
     - Nghe lại toàn bộ như đã đề cập ở ***Cách luyện tập*** nhằm thu thập thêm từ vựng + nghe tốt hơn
     - Tips:
