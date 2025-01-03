@@ -1,13 +1,13 @@
 # ABOUT ME
 Hi there 👋, I'm Huynh Tien Dung (HynDuf).
 
-- 👨‍🎓 I am a third-year student at [UET - VNU](https://uet.vnu.edu.vn/) - K66 - C - CLC. 
+- 👨‍🎓 I am a final-year student at [UET - VNU](https://uet.vnu.edu.vn/) - K66 - C - CLC. 
 - 🌱 I’m currently learning many things to figure out what I really want to do.
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
   - 🔭 I used to do a lot of [Competitive Programming](http://codeforces.com/profile/_LNHTD_).
   - 🌸 I obsess with self-improvement.
-  - ⚡ I use Arch btw.
+  - ⚡ I use NixOS btw.
   - 💎 I love Obsidian.
 
 # ABOUT THIS WEBSITE
