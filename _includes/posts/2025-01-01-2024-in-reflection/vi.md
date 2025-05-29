@@ -60,7 +60,7 @@ Mình xin được tiếp tục series mỗi năm hồi sinh blog 1 lần ạ �
     - cảm ơn cô Điệp ạ 🥰
     - cảm ơn bạn cùng phòng Tuấn và Duy 😉.
     - cảm ơn anh em nhóm rectangle, nhóm OOAD và nhiều bạn khác vì đã nghe mình xàm 😇.
-    - cảm ơn một em khóa dưới dấu tên đã nghe mình tâm sự siêu xàm và cho mình mượn sách đọc (nếu em có đọc thì cho anh xin lỗi vì anh afk hơi lâu 😿, nhưng anh hứa đọc xong sẽ trả 🥺)
+    - cảm ơn một em khóa dưới giấu tên đã nghe mình tâm sự siêu xàm và cho mình mượn sách đọc (nếu em có đọc thì cho anh xin lỗi vì anh afk hơi lâu 😿, nhưng anh hứa đọc xong sẽ trả 🥺)
     - xin lỗi những người bạn mà mình đã đánh mất (do hồi xưa mình quá tệ 😭)
 
 - Cảm ơn bạn đã đọc đến dòng cuối cùng này. Xin chúc bạn có một năm mới tuyệt vời và khỏe mạnh trong 2025.
