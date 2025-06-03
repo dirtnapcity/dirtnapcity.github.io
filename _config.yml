@@ -5,7 +5,7 @@ header-img: img/hollow-knight.png
 email: hynduf@gmail.com
 description: "May it get me? 🌸"
 keyword: "hynduf, @hynduf, HynDuf's Blog, CP, Arch Linux, Obsidian"
-url: "https://hynduf.github.io" # your host, for absolute URL
+url: "https://dirtnapcity.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
